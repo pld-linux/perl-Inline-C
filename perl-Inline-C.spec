@@ -4,7 +4,6 @@
 #
 %define		pdir	Inline
 %define		pnam	C
-%include	/usr/lib/rpm/macros.perl
 Summary:	Inline::C - C Language Support for Inline
 Summary(pl.UTF-8):	Inline::C - obsługa języka C dla Inline
 Name:		perl-Inline-C
